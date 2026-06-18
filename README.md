@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -45,93 +44,8 @@
         <section>
             <p>Welcome to Knightsbridge International Real Estate</p>
             <h1>London Property Experts</h1>
-            
-            <form action="#" method="GET">
-                <fieldset>
-                    <legend>Find Your Property</legend>
-                    
-                    <div>
-                        <input type="radio" id="buying" name="search_type" value="buying" checked>
-                        <label approximation="buying">I'm Buying</label>
-                        
-                        <input type="radio" id="renting" name="search_type" value="renting">
-                        <label for="renting">I'm Renting</label>
-                    </div>
-
-                    <br>
-
-                    <div>
-                        <label for="min-price">Min Price</label>
-                        <select id="min-price" name="min_price">
-                            <option value="">Select Min Price</option>
-                            <option value="500000">£500,000</option>
-                            <option value="750000">£750,000</option>
-                            <option value="1000000">£1,000,000</option>
-                            <option value="2000000">£2,000,000</option>
-                            <option value="5000000">£5,000,000</option>
-                            <option value="10000000">£10,000,000</option>
-                        </select>
-                    </div>
-
-                    <div>
-                        <label for="max-price">Max Price</label>
-                        <select id="max-price" name="max_price">
-                            <option value="">Select Max Price</option>
-                            <option value="500000">£500,000</option>
-                            <option value="1000000">£1,000,000</option>
-                            <option value="2000000">£2,000,000</option>
-                            <option value="5000000">£5,000,000</option>
-                            <option value="10000000">£10,000,000+</option>
-                        </select>
-                    </div>
-
-                    <div>
-                        <label for="beds">Min Beds</label>
-                        <select id="beds" name="beds">
-                            <option value="1">1</option>
-                            <option value="2">2</option>
-                            <option value="3">3</option>
-                            <option value="4">4</option>
-                            <option value="5">5+</option>
-                        </select>
-                    </div>
-
-                    <div>
-                        <label for="baths">Min Baths</label>
-                        <select id="baths" name="baths">
-                            <option value="1">1</option>
-                            <option value="2">2</option>
-                            <option value="3">3</option>
-                            <option value="4">4</option>
-                            <option value="5">5+</option>
-                        </select>
-                    </div>
-
-                    <br>
-                    
-                    <button type="submit">Search</button>
-                    <span> or </span>
-                    <a href="#">View all Properties</a>
-                </fieldset>
-            </form>
         </section>
 
-        <section>
-            <h2>Subscribe to Off-Market Properties</h2>
-            <p>Some properties are such a great opportunity they never even get listed. Don’t miss out! Be the first to know.</p>
-            
-            <form action="#" method="POST">
-                <div>
-                    <label for="off-market-name">Off Market Name *</label>
-                    <input type="text" id="off-market-name" name="name" required placeholder="Name">
-                </div>
-                <div>
-                    <label for="off-market-email">Email *</label>
-                    <input type="email" id="off-market-email" name="email" required placeholder="Email">
-                </div>
-                <button type="submit">Subscribe</button>
-            </form>
-        </section>
 
         <section>
             <h2>Client Testimonial</h2>
