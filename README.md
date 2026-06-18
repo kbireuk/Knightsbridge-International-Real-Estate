@@ -14,9 +14,9 @@
         </div>
         <nav aria-label="Regional Sites">
             <ul>
-                <li><a href="#">UK</a></li>
-                <li><a href="#">UAE</a></li>
-                <li><a href="#">USA</a></li>
+                <li><a href="https://kbire.co.uk/">UK</a></li>
+                <li><a href="https://kbire.co.uk/uae">UAE</a></li>
+                <li><a href="https://kbire.com/">USA</a></li>
             </ul>
         </nav>
     </aside>
@@ -27,15 +27,14 @@
         </div>
         <nav aria-label="Main Menu">
             <ul>
-                <li><a href="#">Buying</a></li>
-                <li><a href="#">Selling</a></li>
-                <li><a href="#">Renting</a></li>
-                <li><a href="#">Letting</a></li>
-                <li><a href="#">Country Homes</a></li>
-                <li><a href="#">Areas We Serve</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Global Reach</a></li>
-                <li><a href="#">About Us</a></li>
+                <li><a href="https://kbire.co.uk/buying/">Buying</a></li>
+                <li><a href="https://kbire.co.uk/selling/">Selling</a></li>
+                <li><a href="https://kbire.co.uk/renting/">Renting</a></li>
+                <li><a href="https://kbire.co.uk/renting/properties-to-let/">Letting</a></li>
+                <li><a href="https://kbire.co.uk/country-homes/">Country Homes</a></li>
+                <li><a href="https://kbire.co.uk/news/">Blog</a></li>
+                <li><a href="https://kbire.co.uk/global-luxury/">Global Reach</a></li>
+                <li><a href="https://kbire.co.uk/about-us/">About Us</a></li>
             </ul>
         </nav>
     </header>
@@ -58,12 +57,12 @@
         <section>
             <h2>Our Agents</h2>
             <p>The team of Brokers at Knightsbridge International Real Estate has vast knowledge and understanding of residential, commercial, new development, land, farm use, and other niche markets.</p>
-            <p><a href="#">Meet The Agents</a></p>
+            <p><a href="https://kbire.co.uk/about-us/meet-the-team/">Meet The Agents</a></p>
         </section>
 
         <section>
             <h2>Discover the Finest Properties in London’s Most Coveted Boroughs with Estate Agents in Fulham</h2>
-            <p><a href="#">View all Properties</a></p>
+            <p><a href="https://kbire.co.uk/buying/properties-for-sale/">View all Properties</a></p>
             <p>Knightsbridge International Real Estate helps you discover your ideal luxury residence throughout London’s most desirable boroughs. Wish to live in a modern apartment located in Kensington? Want a beautiful Chelsea townhouse as your home? Finding either a contemporary apartment, a traditional residence in Fulham or a unique Knightsbridge property? Our estate agents in Fulham possess complete knowledge of these regions, and we will guide you through everything.</p>
             <p>We combine our extensive local expertise with our global knowledge to help you find a home that matches your personal requirements. Our process starts with understanding your unique needs and personal style, which leads us to create custom solutions for your buying, selling and renting requirements.</p>
         </section>
@@ -111,11 +110,8 @@
     <footer>
         <nav aria-label="Social Media Links">
             <ul>
-                <li><a href="#">Facebook</a></li>
-                <li><a href="#">Instagram</a></li>
-                <li><a href="#">Zoopla</a></li>
-                <li><a href="#">Rightmove</a></li>
-                <li><a href="#">OnTheMarket</a></li>
+                <li><a href="https://www.facebook.com/KnightsbridgeIREUK">Facebook</a></li>
+                <li><a href="https://www.instagram.com/KnightsbridgeInternational/">Instagram</a></li>
             </ul>
         </nav>
         
@@ -127,9 +123,9 @@
         
         <nav aria-label="Legal Links">
             <ul>
-                <li><a href="#">Complaints Policy</a></li>
-                <li><a href="#">Contact</a></li>
-                <li><a href="#">CMP Policy</a></li>
+                <li><a href="https://kbire.co.uk/complaints/">Complaints Policy</a></li>
+                <li><a href="https://kbire.co.uk/about-us/contact/">Contact</a></li>
+                <li><a href="https://kbire.co.uk/client-money-protection/">CMP Policy</a></li>
             </ul>
         </nav>
     </footer>
